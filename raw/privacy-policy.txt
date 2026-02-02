@@ -1,0 +1,155 @@
+PRIVACY POLICY - SONGLEARNER
+Last Updated: January 30, 2026
+
+================================================================================
+
+INTRODUCTION
+
+SongLearner ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+
+Please read this Privacy Policy carefully. By using SongLearner, you agree to the collection and use of information in accordance with this policy.
+
+================================================================================
+
+INFORMATION WE COLLECT
+
+Account Information
+-------------------
+When you create an account, we collect:
+
+- Email address (for email/password sign-in)
+- Name and profile picture (from Google or Microsoft sign-in)
+- Authentication tokens (securely stored for session management)
+
+Usage Data
+----------
+We automatically collect:
+
+- Vocabulary words you save from songs
+- Learning progress (flashcard reviews, spaced repetition data)
+- Token balance and transaction history (purchases, usage)
+- App preferences (language settings, display mode, theme)
+- Song history (videos you've translated)
+
+Device Information
+------------------
+We may collect:
+
+- Device type and operating system
+- Push notification tokens (for learning reminders)
+- Crash logs and diagnostics (only when you opt to send feedback)
+
+Content You Provide
+-------------------
+- Feedback and bug reports you submit
+- Custom notes on vocabulary words
+
+================================================================================
+
+HOW WE USE YOUR INFORMATION
+
+We use the collected information to:
+
+- Provide and maintain the SongLearner service
+- Process in-app purchases and manage your token balance
+- Sync your vocabulary and learning progress across devices
+- Send push notifications for learning reminders (if enabled)
+- Improve our app and develop new features
+- Respond to your support requests
+- Prevent fraud and enforce our terms
+
+================================================================================
+
+THIRD-PARTY SERVICES
+
+SongLearner uses the following third-party services that may collect information:
+
+Firebase (Google)
+-----------------
+- Firebase Authentication: Manages user sign-in
+- Cloud Firestore: Stores user data (vocabulary, tokens, preferences)
+- Cloud Functions: Processes lyrics generation
+- Firebase Cloud Messaging: Delivers push notifications
+
+Firebase Privacy Policy: https://firebase.google.com/support/privacy
+
+RevenueCat
+----------
+Processes in-app purchases and manages subscriptions. Receives transaction data from App Store/Google Play.
+
+RevenueCat Privacy Policy: https://www.revenuecat.com/privacy
+
+YouTube API
+-----------
+Provides video playback functionality. We do not store YouTube viewing history beyond song metadata.
+
+YouTube Terms of Service: https://www.youtube.com/t/terms
+Google Privacy Policy: https://policies.google.com/privacy
+
+Google Sign-In / Microsoft Sign-In
+----------------------------------
+Provides authentication services. We only receive your name, email, and profile picture.
+
+================================================================================
+
+DATA STORAGE AND SECURITY
+
+- Your data is stored securely on Firebase servers
+- We use industry-standard encryption for data transmission
+- Authentication tokens are stored securely on your device
+- We do not sell your personal information to third parties
+
+================================================================================
+
+DATA RETENTION
+
+- Account data is retained until you delete your account
+- Vocabulary and learning data syncs with your account
+- Local cache data can be cleared from app settings
+- Upon account deletion, your data is permanently removed within 30 days
+
+================================================================================
+
+YOUR RIGHTS
+
+You have the right to:
+
+- Access your personal data
+- Export your vocabulary data
+- Delete your account and associated data
+- Opt-out of push notifications
+- Withdraw consent at any time
+
+To exercise these rights, contact us at: amazingglobalapps@gmail.com
+
+================================================================================
+
+CHILDREN'S PRIVACY
+
+SongLearner is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you believe we have collected such information, please contact us immediately.
+
+================================================================================
+
+INTERNATIONAL DATA TRANSFERS
+
+Your information may be transferred to and processed in countries other than your own. By using SongLearner, you consent to such transfers.
+
+================================================================================
+
+CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy in the app and updating the "Last Updated" date.
+
+================================================================================
+
+CONTACT US
+
+If you have questions about this Privacy Policy, please contact us:
+
+Email: amazingglobalapps@gmail.com
+
+================================================================================
+
+This Privacy Policy is effective as of January 30, 2026.
+
+(c) 2026 SongLearner. All rights reserved.
